@@ -22,3 +22,8 @@ Note Release:
 An Online Gradebooking System is a cloud-based platform used by teachers to track and manage student grades. It allows teachers to store, enter, and analyze student grades in a secure, centralized location. The system also offers features such as customizable grading scales, automatic calculation of student averages, and email notifications of student progress.
 .
 .
+
+Time.py:
+A timer is a device used to measure a certain amount of time. It can be used to control the timing of tasks, measure time intervals, and regulate the sequence of events in a process. Timers can be mechanical, electrical, or digital and may be used for a variety of purposes, from timing a cooking recipe to timing the intervals between traffic lights.
+.
+.
