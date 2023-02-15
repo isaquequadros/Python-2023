@@ -27,3 +27,8 @@ Time.py:
 A timer is a device used to measure a certain amount of time. It can be used to control the timing of tasks, measure time intervals, and regulate the sequence of events in a process. Timers can be mechanical, electrical, or digital and may be used for a variety of purposes, from timing a cooking recipe to timing the intervals between traffic lights.
 .
 .
+
+ConversorMoedas:
+Converting currencies is important for international business, travel, and investments. Exchange rates constantly fluctuate, so it is important to convert currencies in order to accurately calculate the value of goods and services in different countries. This also helps individuals and businesses to better budget and plan ahead for their international transactions.
+.
+.
